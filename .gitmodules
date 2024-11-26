@@ -1,9 +1,12 @@
 [submodule "barramento-de-servicos"]
 	path = barramento-de-servicos
 	url = git@github.com:CotetoPraca/barramento-de-servicos.git
+	branch = master
 [submodule "aplicacao-cliente"]
 	path = aplicacao-cliente
 	url = git@github.com:CotetoPraca/aplicacao-cliente.git
+	branch = master
 [submodule "aplicacao-servidor"]
 	path = aplicacao-servidor
 	url = git@github.com:CotetoPraca/aplicacao-servidor.git
+	branch = master
