@@ -2,8 +2,8 @@
 
 Projeto desenvolvido como parte do trabalho final de graduação em Ciência da 
 Computação na Universidade Federal de Itajubá (UNIFEI). O projeto consiste de uma
-implementação simplificada de um barramento de serviços para aplicações em 
-pequena escala e com capacidade para atender múltiplos protocolos.
+implementação simplificada de um barramento de serviços para ambiente de 
+pequena escala (SoHo) e com capacidade para atender múltiplos protocolos.
 
 O projeto foi dividio em 3 subrepositórios. O `barramento-de-servicos` representa
 a implementação do S3B em Java usando a IDE IntelliJ IDEA Community Edition. Os
