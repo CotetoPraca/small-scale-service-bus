@@ -13,7 +13,8 @@ para validar as funcionalidades do S3B e disponibilizados como exemplos.
 No diretório `diagramas` estão os diagramas relativos a modelagem do S3B, salvos 
 em formato PNG e PDF. Os diagramas são:
 
-- [Legenda das classes](diagramas/diagrama_classes_legenda.png), com o signficado de cada notação e das cores usadas nas classes;
+- [Legenda das classes](diagramas/diagrama_classes_legenda.png), com o signficado
+de cada notação e das cores usadas nas representações das classes;
 - Diagrama de Classes, dividia em 3 diagramas:
   - [Entrada e Saída de dados](diagramas/diagrama_classes_entrada_saida.png);
   - [Processamento](diagramas/diagrama_classes_processamento.png); e
